@@ -1,7 +1,6 @@
 # Ejercicio N° 14
 ## Desarrollo de Software
 ### API Web
-## Integrantes: 3k3 Nicolas Ala Rue - 56220, Bravo Luis Simon - 56110
 ## Tareas
 Bifurcar (fork) el repositorio.
 
